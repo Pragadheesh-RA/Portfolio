@@ -78,7 +78,7 @@ export function Footer() {
           </div>
           
           <p className="text-gray-500 text-xs sm:text-sm text-center">
-            © {currentYear} Pragadheesh RA - Certified Full Stack Developer. All rights reserved.
+            © {currentYear} Pragadheesh RA - Certified Full Stack Developer . All rights reserved.
           </p>
         </div>
       </div>

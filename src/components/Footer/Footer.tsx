@@ -8,7 +8,7 @@ export function Footer() {
   
   const socialLinks = [
     { platform: 'github', url: 'https://github.com/Pragadheesh-RA' },
-    { platform: 'linkedin', url: 'https://linkedin.com/in/pragadheesh-r-a' }
+    { platform: 'linkedin', url: 'https://linkedin.com/in/pragadheesh-ra' }
   ];
 
   const contactInfo = [

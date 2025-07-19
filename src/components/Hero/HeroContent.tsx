@@ -111,7 +111,7 @@ export function HeroContent() {
 
         <div className="flex gap-3 sm:gap-4 justify-center lg:justify-start">
           <SocialIcon url="https://github.com/Pragadheesh-RA" className="hover:scale-110 transition-transform" style={{ height: 40, width: 40 }} />
-          <SocialIcon url="https://linkedin.com/in/pragadheesh-r-a" className="hover:scale-110 transition-transform" style={{ height: 40, width: 40 }} />
+          <SocialIcon url="https://linkedin.com/in/pragadheesh-ra" className="hover:scale-110 transition-transform" style={{ height: 40, width: 40 }} />
           <SocialIcon url="https://www.instagram.com/pragadheesh_arumugam?igsh=MTYwYnV5cDZiODdkaA== " className="hover:scale-110 transition-transform" style={{ height: 40, width: 40 }} />
         </div>
       </motion.div>

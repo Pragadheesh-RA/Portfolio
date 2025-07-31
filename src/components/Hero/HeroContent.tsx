@@ -98,15 +98,6 @@ export function HeroContent() {
             <Mail className="w-4 h-4 sm:w-5 sm:h-5" />
             Contact Me
           </motion.a>
-          <motion.a
-            href="./Resume_RA.pdf"
-            download
-            whileHover={{ scale: 1.05 }}
-            className="inline-flex items-center justify-center gap-2 bg-gray-800 dark:bg-gray-700 text-white px-6 sm:px-8 py-3 rounded-lg font-medium hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors text-sm sm:text-base"
-          >
-            <Download className="w-4 h-4 sm:w-5 sm:h-5" />
-            Resume
-          </motion.a>
         </div>
 
         <div className="flex gap-3 sm:gap-4 justify-center lg:justify-start">
